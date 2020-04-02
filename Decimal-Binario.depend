@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585847631 source:c:\users\eduardo hermes neto\documents\decimal-binario\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
